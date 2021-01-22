@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUD (jQueryAjaxDotNetCore)", "CRUD (jQueryAjaxDotNetCore)\CRUD (jQueryAjaxDotNetCore).csproj", "{EBCBBCBF-22FC-4A27-B297-8F4E0AAA6194}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBCBBCBF-22FC-4A27-B297-8F4E0AAA6194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBCBBCBF-22FC-4A27-B297-8F4E0AAA6194}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBCBBCBF-22FC-4A27-B297-8F4E0AAA6194}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBCBBCBF-22FC-4A27-B297-8F4E0AAA6194}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FE36C4E-6FBF-42F1-8095-04A7C7835F2B}
+	EndGlobalSection
+EndGlobal
